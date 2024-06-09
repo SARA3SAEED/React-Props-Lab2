@@ -1,0 +1,59 @@
+  ul li {
+  list-style: none;
+  padding: 10px;
+  margin: 10px;
+}
+
+ul{
+  display: flex;
+  padding: 10px;
+  margin: 10px;
+}
+
+
+
+/*-----------------------------------------*/
+.div-card{
+
+  width: 30%;
+  text-align: center;
+  box-shadow: 5px 10px #888888;
+  border-radius: 10px;
+  background-color: rgb(161, 161, 117);
+}
+
+.div-card p{
+  text-align: center;
+
+}
+
+.div-card img{
+  width: 50%;
+  margin: 25px;
+  border-radius: 10px;
+}
+
+
+.div-card p{
+  padding: 5px;
+  font-size: large;
+  font-weight: 600;
+  
+}
+
+
+
+
+/*------------------------------------------*/
+
+.div-footer{
+  display: flex;
+  padding: 20px;
+  margin: 30px;
+}
+
+
+.div-footer p{
+  padding: 20px;
+  margin: 30px;
+}
